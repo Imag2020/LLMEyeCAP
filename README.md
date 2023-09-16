@@ -76,7 +76,7 @@ Here's how to use this model for object captioning:
 
 ## Limitations and Future Work
 
-This 0.1 version is a stand alone model for captiong objects on images. It can be uses as it or trained on new objects without "catastrophic forgetting".
+This 0.1 version is a stand alone model for captiong objects on images. It can be used as it or trained on new objects without "catastrophic forgetting".
 Coming the 0.2 version with latent space to connect to hidden dims of LLMs.
 Again this model is still in the development phase and we're actively seeking contributions and ideas to enhance its capabilities. If you're interested in contributing, whether it's through code, ideas, or data, we'd love to hear from you.
 
